@@ -8,4 +8,5 @@ basic giveaway bot with application commands
 ## Commands:
 
 /start {prize} {amount of time in seconds} = starts a giveaway
+
 /giveaway-status = checks status of a giveaway
